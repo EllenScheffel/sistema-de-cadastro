@@ -6,3 +6,4 @@ Para rodar esse projeto na maquina, por favor digite:
 ```
 npm install react.
 ```
+atualizacao
